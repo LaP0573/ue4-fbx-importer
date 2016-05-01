@@ -1,0 +1,1 @@
+A very basic showcase of how to use ProceduralMeshComponent to load models (thanks to assimp) directly into UE4, at runtime. The code also includes a small feature monitoring the FBX file of choice so it reloads the model as soon as the file is modified.
